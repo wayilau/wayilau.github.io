@@ -6,7 +6,7 @@
 url: http://wayilau.github.io
 baseurl: /wayilau.github.io
 title: Alex Liu
-description: Some descriptions of yourself.
+description: A Normal Soft Enginger
 avatar: /assets/img/ogp.png
 # favicon: /favicon.ico
 favicon: /assets/img/ogp.png
@@ -18,10 +18,10 @@ language: en
 #
 icons:
   rss: true
-  email:
-  github: ttskch
+  email: alexlau.2015@gmail.com
+  github: wayilau
   bitbucket:
-  twitter: ttskch
+  twitter: wayilau
   facebook:
   google_plus:
   tumblr:
