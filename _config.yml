@@ -78,7 +78,7 @@ share_buttons:
   facebook: false # needs ogp.fb.app_id
   hatena: false
 ogp:
-  image_url: //ttskch.github.io/jekyll-ttskch-theme/assets/img/ogp.png
+  image_url: //wayilau.github.io/assets/img/ogp.png
   fb:
     admin: # facebook admin id
     app_id: # facebook application id
