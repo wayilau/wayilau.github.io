@@ -3,9 +3,9 @@
 #
 # url: http://localhost:4000
 # baseurl: ""
-url: http://ttskch.github.io
+url: http://wayilau.github.io
 baseurl: /jekyll-ttskch-theme
-title: Your name
+title: Alex Liu
 description: Some descriptions of yourself.
 avatar: /assets/img/ogp.png
 # favicon: /favicon.ico
